@@ -1,0 +1,1 @@
+import{_ as e,o as t,e as s,b as c}from"./index-b55a7827.js";const o={},r={class:"flex justify-center items-center h-screen w-screen bg-gray-100 dark:bg-gray-900 text-black dark:text-white"},n=c("h2",null,"Bonik Sheba",-1),a=[n];function _(i,d){return t(),s("div",r,a)}const f=e(o,[["render",_]]);export{f as default};

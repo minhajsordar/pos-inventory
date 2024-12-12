@@ -1,0 +1,1 @@
+function i(t){return/^[^s@]+@[^s@]+.[^s@]+$/.test(t)}function s(t){return!isNaN(t)&&(typeof t=="number"||typeof t=="string"&&t.trim()!=="")}const e=t=>t!==null&&t!=="",r=t=>t&&t.length>0,o=t=>t!==null&&t!==""&&s(t);export{s as a,e,i,o as n,r as s};

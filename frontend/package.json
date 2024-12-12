@@ -1,0 +1,33 @@
+{
+  "name": "vue-dashboard",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.16.12",
+    "@quasar/vite-plugin": "^1.7.0",
+    "axios": "^1.5.1",
+    "html2canvas": "^1.4.1",
+    "i": "^0.3.7",
+    "jspdf": "^2.5.2",
+    "jspdf-autotable": "^3.8.4",
+    "npm": "^10.9.0",
+    "pinia": "^2.1.6",
+    "quasar": "^2.17.0",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.10",
+    "@vitejs/plugin-vue": "^4.3.4",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "sass": "^1.79.3",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.9"
+  }
+}
