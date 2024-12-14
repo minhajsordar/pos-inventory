@@ -21,3 +21,10 @@ password: 1234
 edit default user from here
 
 backend/controllers/user/auth/authController.js
+
+
+Full Stack Developer:
+Name: Minhaj Sordar
+email: minhajsorder8205@gmail.com
+linkdin: https://www.linkedin.com/in/minhajsordar/
+github: https://github.com/minhajsordar/
