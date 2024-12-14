@@ -1,3 +1,23 @@
-git remote add hostinger ssh://root@194.238.22.209/root/apps/pos.begunipik/repo/
-git add . && git commit -m "msdsaf" && git push hostinger master
-sss s
+### for backend
+npm install
+npm run server
+
+### for frontend
+
+cd frontend
+npm install 
+npm run dev
+
+### for the first time you need to create super user
+
+http://localhost:5003/api/user/auth/create-super-user
+
+### then loged in using created response 
+by default 
+
+user email: minhaj@gmail.com
+password: 1234
+
+edit default user from here
+
+backend/controllers/user/auth/authController.js
